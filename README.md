@@ -4,7 +4,10 @@
 
 GPT地址：https://chat.openai.com/g/g-xEgLcBInA-bei-jing-fu-sheng-ji 
 
-![image](https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/a4f33fc2-d528-4a44-80c0-0a61d62fb39e)
+<img width="595" alt="image" src="https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/bb31e11c-c008-4522-aabd-8c24e26e86d1">
+
+![CleanShot 2024-02-02 at 00 45 32@2x](https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/6f46b49d-d5b0-4c13-a680-e705cde7b16a)
+
 
 ## System Design 系统设计
 
