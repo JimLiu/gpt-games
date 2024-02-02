@@ -28,6 +28,13 @@ GPT地址：https://chat.openai.com/g/g-xEgLcBInA-bei-jing-fu-sheng-ji
 
 ![image](https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/59d7c2f6-d9a5-4309-94e4-533d4c77fcdf)
 
+## GPT Config
+
+![image](https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/19ab66f0-d6f2-4acb-92f6-4408576716fb)
+
+![image](https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/30c26e07-a706-40a0-a9a0-69f7d7320b0b)
+
+
 ## Screenshots
 
 
