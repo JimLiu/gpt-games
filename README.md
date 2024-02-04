@@ -5,6 +5,8 @@
   <img width="595" alt="image" src="https://github.com/JimLiu/beijing-fushengji-gpt/assets/648674/bb31e11c-c008-4522-aabd-8c24e26e86d1">
 - [Tokimeki Memorial 〜forever with you〜❤️](https://chat.openai.com/g/g-Xn8A0QheE-tokimeki-memorial-forever-with-you)
   Tokimeki Memorial/ときめきメモリアル/心跳回忆/純愛手札
+  ![image](https://github.com/JimLiu/gpt-games/assets/648674/47354445-bd8d-47e8-a0c9-217ea36fd429)
+
 
 ## System Design 系统设计
 
