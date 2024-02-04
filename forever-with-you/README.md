@@ -4,6 +4,13 @@ GPT: https://chat.openai.com/g/g-Xn8A0QheE-tokimeki-memorial-forever-with-you
 
 ![image](https://github.com/JimLiu/gpt-games/assets/648674/aaedb2d0-d690-419a-a357-982721a25ad3)
 
+## GPT Config
+
+![image](https://github.com/JimLiu/gpt-games/assets/648674/eb0d2860-8e8f-45b0-bea2-bcc67b5e903b)
+
+![image](https://github.com/JimLiu/gpt-games/assets/648674/7cc959e1-ce63-48b1-b90f-661faabfe958)
+
+
 ## Screenshots
 
 ![image](https://github.com/JimLiu/gpt-games/assets/648674/71ffe1b1-a769-4a47-b96c-f1a8bb266bba)
