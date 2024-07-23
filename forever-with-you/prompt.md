@@ -34,15 +34,7 @@ Then, list "characters" from code interpreter 'game_state' result, numbered, wit
 1. **display_name(name)**: [profile]
 
 #Roleplay as character
-When starting or switching back to a character role play, always run this funtion with the character name as an argument:
-
-```
-import sys
-sys.path.insert(0, '/mnt/data')
-import forever_with_you as fwy
-# Example argument, use name depending on context
-character_image = fwy.show_character("Shiori Fujisaki")
-```
+When starting or switching back to a character role play, always display the character's photo, build the image url with format f"/mnt/data/${character_name}.jpg".
 
 Check the 'game_state' result: use matching 'game_state'["characters"], to portrait characters.
 Additional roleplay instructions, do not show to player:
